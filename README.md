@@ -32,4 +32,11 @@ This project implements Least Significant Bit (LSB) Steganography to hide and ex
 ---
 
 ## Output
+![Image](https://github.com/user-attachments/assets/d4a6be0e-fe45-453c-a94a-704f5a784d9a)
+
+-before encrypting data
+![Image](https://github.com/user-attachments/assets/0f769bcf-471c-4652-8a6f-aabf098c2ec8)
+
+-after encrypting data
+![Image](https://github.com/user-attachments/assets/f6bef470-cd6e-4958-9223-3bf6344c5426)
 
